@@ -1,0 +1,1 @@
+Conducted time series analysis forecasting on monthly sugar commodity prices, employing web scraping to gather data from a static website. Developed machine learning models including ARIMA, AutoRegression, Facebook Prophet, and Exponential Smoothing, with AutoRegression having the most desirable results.
